@@ -1,0 +1,22 @@
+{
+   "domain": "messages",
+   "locale_data": {
+      "messages": {
+         "": {
+            "domain": "messages"
+         },
+         "WooCommerce Multilingual & Multicurrency": [
+            "ووكومرس متعدد اللغات والعملات"
+         ],
+         "https://wpml.org/documentation/related-projects/woocommerce-multilingual/?utm_source=plugin&utm_medium=gui&utm_campaign=wcml": [
+            "https://wpml.org/documentation/related-projects/woocommerce-multilingual/?utm_source=plugin&utm_medium=gui&utm_campaign=wcml"
+         ],
+         "Comment number declension: on or off\u0004turn off the TV": [
+            "أطفئ التلفاز"
+         ],
+         "decline months names: on or off\u0004turn off the light": [
+            "أطفئ الضوء"
+         ]
+      }
+   }
+}
